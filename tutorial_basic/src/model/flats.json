@@ -1,0 +1,100 @@
+[
+    {
+        "id": "flat1",
+        "name": "Smith",
+        "title": "flat 1 title",
+        "lat": 1,
+        "lng": 27,
+        "imageUrl": "",
+        "address": {
+        "streetAddress": "21 2nd Street",
+        "city": "New York",
+        "state": "NY",
+        "postalCode": "10021-3100"
+        }
+    },
+    {
+        "id": "flat2",
+        "name": "Smith",
+        "title": "flat 2 title",
+        "lat": 1,
+        "lng": 27,
+        "imageUrl": "",
+        "address": {
+        "streetAddress": "21 2nd Street",
+        "city": "New York",
+        "state": "NY",
+        "postalCode": "10021-3100"
+        }
+    },
+    {
+        "id": "flat1",
+        "name": "Smith",
+        "title": "flat 1 title",
+        "lat": 1,
+        "lng": 27,
+        "imageUrl": "",
+        "address": {
+        "streetAddress": "21 2nd Street",
+        "city": "New York",
+        "state": "NY",
+        "postalCode": "10021-3100"
+        }
+    },
+    {
+        "id": "flat1",
+        "name": "Smith",
+        "title": "flat 1 title",
+        "lat": 1,
+        "lng": 27,
+        "imageUrl": "",
+        "address": {
+        "streetAddress": "21 2nd Street",
+        "city": "New York",
+        "state": "NY",
+        "postalCode": "10021-3100"
+        }
+    },
+    {
+        "id": "flat1",
+        "name": "Smith",
+        "title": "flat 1 title",
+        "lat": 1,
+        "lng": 27,
+        "imageUrl": "",
+        "address": {
+        "streetAddress": "21 2nd Street",
+        "city": "New York",
+        "state": "NY",
+        "postalCode": "10021-3100"
+        }
+    },
+    {
+        "id": "flat1",
+        "name": "Smith",
+        "title": "flat 1 title",
+        "lat": 1,
+        "lng": 27,
+        "imageUrl": "",
+        "address": {
+        "streetAddress": "21 2nd Street",
+        "city": "New York",
+        "state": "NY",
+        "postalCode": "10021-3100"
+        }
+    },
+    {
+        "id": "flat1",
+        "name": "Smith",
+        "title": "flat 1 title",
+        "lat": 1,
+        "lng": 27,
+        "imageUrl": "",
+        "address": {
+        "streetAddress": "21 2nd Street",
+        "city": "New York",
+        "state": "NY",
+        "postalCode": "10021-3100"
+        }
+    }
+]
